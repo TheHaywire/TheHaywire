@@ -32,7 +32,7 @@ From bustling cities to remote corners, I've delivered security assessments, lau
 ## 🌐 Global Footprint
 
 - 🏢 Collaborated with Fortune 500s, unicorns, and high-growth startups
-- ✈️ Traveled for red teaming, purple teaming, and security assessments in 12+ countries (Middle East, Europe, SE Asia, India)
+- ✈️ Traveled for red teaming, purple teaming, and security assessments in 12+ countries (Middle East, Africa, SE Asia, India)
 - 🤝 Helped teams scale, secure, and innovate in diverse cultures and markets
 
 ---
